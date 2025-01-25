@@ -25,4 +25,4 @@ This website has been designed to incorporate a range of features, including:
 The repository is available to all and while constructive criticism and suggestions are welcomed to improve optimisation of the code, Its main purpose is to serve as a source of inspiration and as a tool to assist individuals in developing their own personal websites.
 
 > [!NOTE]
-> Last updated on 25 / 01 / 2025
+> Last updated on 25/01/2025
