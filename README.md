@@ -1,2 +1,2 @@
 # BayOnurArslan.github.io
-PWR (Personal Website Repository)
+Onur ARSLAN's Personal Website Repository
